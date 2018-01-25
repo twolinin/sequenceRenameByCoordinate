@@ -1,0 +1,49 @@
+Assembly	reNameResult
+# contigs (>= 0 bp)	37
+# contigs (>= 1000 bp)	37
+# contigs (>= 5000 bp)	37
+# contigs (>= 10000 bp)	37
+# contigs (>= 25000 bp)	32
+# contigs (>= 50000 bp)	26
+Total length (>= 0 bp)	12325448
+Total length (>= 1000 bp)	12325448
+Total length (>= 5000 bp)	12325448
+Total length (>= 10000 bp)	12325448
+Total length (>= 25000 bp)	12233243
+Total length (>= 50000 bp)	12018991
+# contigs	37
+Largest contig	1076233
+Total length	12325448
+Reference length	12157105
+GC (%)	38.22
+Reference GC (%)	38.15
+N50	678403
+NG50	678403
+N75	432839
+NG75	432839
+L50	8
+LG50	8
+L75	14
+LG75	14
+# misassemblies	79
+# misassembled contigs	30
+Misassembled contigs length	10380502
+# local misassemblies	25
+# unaligned mis. contigs	0
+# unaligned contigs	1 + 11 part
+Unaligned length	62721
+Genome fraction (%)	98.221
+Duplication ratio	1.027
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	80.67
+# indels per 100 kbp	59.62
+Largest alignment	1076081
+Total aligned length	12257442
+NA50	374994
+NGA50	374994
+NA75	198911
+NGA75	198911
+LA50	11
+LGA50	11
+LA75	22
+LGA75	22

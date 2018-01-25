@@ -1,0 +1,30 @@
+reference chromosomes:
+	NC_001138.5_Saccharomyces_cerevisiae_S288c_chromosome_VI__complete_sequence (total length: 270161 bp, maximal covered length: 270158 bp)
+	NC_001148.4_Saccharomyces_cerevisiae_S288c_chromosome_XVI__complete_sequence (total length: 948066 bp, maximal covered length: 931317 bp)
+	NC_001224.1_Saccharomyces_cerevisiae_S288c_mitochondrion__complete_genome (total length: 85779 bp, maximal covered length: 73470 bp)
+	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence (total length: 562643 bp, maximal covered length: 547841 bp)
+	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence (total length: 1078177 bp, maximal covered length: 1065309 bp)
+	NC_001147.6_Saccharomyces_cerevisiae_S288c_chromosome_XV__complete_sequence (total length: 1091291 bp, maximal covered length: 1083222 bp)
+	NC_001137.3_Saccharomyces_cerevisiae_S288c_chromosome_V__complete_sequence (total length: 576874 bp, maximal covered length: 576832 bp)
+	NC_001135.5_Saccharomyces_cerevisiae_S288c_chromosome_III__complete_sequence (total length: 316620 bp, maximal covered length: 310845 bp)
+	NC_001133.9_Saccharomyces_cerevisiae_S288c_chromosome_I__complete_sequence (total length: 230218 bp, maximal covered length: 198669 bp)
+	NC_001146.8_Saccharomyces_cerevisiae_S288c_chromosome_XIV__complete_sequence (total length: 784333 bp, maximal covered length: 759449 bp)
+	NC_001134.8_Saccharomyces_cerevisiae_S288c_chromosome_II__complete_sequence (total length: 813184 bp, maximal covered length: 805425 bp)
+	NC_001142.9_Saccharomyces_cerevisiae_S288c_chromosome_X__complete_sequence (total length: 745751 bp, maximal covered length: 744908 bp)
+	NC_001145.3_Saccharomyces_cerevisiae_S288c_chromosome_XIII__complete_sequence (total length: 924431 bp, maximal covered length: 909065 bp)
+	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence (total length: 1090940 bp, maximal covered length: 1076058 bp)
+	NC_001143.9_Saccharomyces_cerevisiae_S288c_chromosome_XI__complete_sequence (total length: 666816 bp, maximal covered length: 666415 bp)
+	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence (total length: 1531933 bp, maximal covered length: 1487918 bp)
+	NC_001141.2_Saccharomyces_cerevisiae_S288c_chromosome_IX__complete_sequence (total length: 439888 bp, maximal covered length: 433878 bp)
+
+total genome size: 12157105
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+reNameResult             | 98.22058% | 1.02696     | 44        | -         | -         | -         | -         |

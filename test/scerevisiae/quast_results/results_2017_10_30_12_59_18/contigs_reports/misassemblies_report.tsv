@@ -1,0 +1,14 @@
+Assembly	reNameResult
+# misassemblies	79
+    # relocations	33
+    # translocations	46
+    # inversions	0
+# misassembled contigs	30
+Misassembled contigs length	10380502
+# local misassemblies	25
+# unaligned mis. contigs	0
+# mismatches	9633
+# indels	7119
+    # indels (<= 5 bp)	6969
+    # indels (> 5 bp)	150
+Indels length	10252

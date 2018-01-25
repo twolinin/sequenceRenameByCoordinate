@@ -1,0 +1,294 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+856569	937248	80640	1	NC_001148.4_Saccharomyces_cerevisiae_S288c_chromosome_XVI__complete_sequence	ref16_2_850637-56495	99.9		True
+relocation, inconsistency = 5931
+134700	850637	796287	80641	NC_001148.4_Saccharomyces_cerevisiae_S288c_chromosome_XVI__complete_sequence	ref16_2_850637-56495	99.95		True
+indel: indel (> 5bp)
+56495	134709	874442	796288	NC_001148.4_Saccharomyces_cerevisiae_S288c_chromosome_XVI__complete_sequence	ref16_2_850637-56495	99.91		True
+CONTIG	ref16_2_850637-56495	874442	misassembled
+595156	598246	3085	1	NC_001147.6_Saccharomyces_cerevisiae_S288c_chromosome_XV__complete_sequence	ref5_2_443397-576874	99.0		True
+translocation
+443397	576874	3086	136453	NC_001137.3_Saccharomyces_cerevisiae_S288c_chromosome_V__complete_sequence	ref5_2_443397-576874	99.9		True
+CONTIG	ref5_2_443397-576874	136737	misassembled
+1	62602	62557	1	NC_001148.4_Saccharomyces_cerevisiae_S288c_chromosome_XVI__complete_sequence	ref16_1_62602-1	99.9		True
+CONTIG	ref16_1_62602-1	62848	correct
+451419	460560	107	9154	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_3_451418-472523	99.44		True
+relocation, inconsistency = -9143
+451418	460556	9155	18281	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_3_451418-472523	99.93		True
+relocation, inconsistency = -9139
+451418	472523	18282	39381	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_3_451418-472523	99.95		True
+CONTIG	ref12_3_451418-472523	39381	misassembled
+459791	466204	6403	1	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_4_468943-451418	99.86		True
+relocation, inconsistency = -9139
+459791	468929	15533	6404	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_4_468943-451418	99.95		True
+relocation, inconsistency = -9139
+451418	468929	33039	15534	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_4_468943-451418	99.97		True
+relocation, inconsistency = -9138
+454961	460555	38629	33040	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_4_468943-451418	99.96		True
+CONTIG	ref12_4_468943-451418	38629	misassembled
+520302	531355	1	11046	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_2_527398-645501	99.66		True
+relocation, inconsistency = -3885
+527471	645501	11047	129034	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_2_527398-645501	99.94		True
+relocation, inconsistency = 5923
+651425	668296	129035	145894	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_2_527398-645501	99.82		True
+translocation
+804645	810566	145895	151808	NC_001148.4_Saccharomyces_cerevisiae_S288c_chromosome_XVI__complete_sequence	ref4_2_527398-645501	99.29		True
+translocation
+668296	671544	151809	155055	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_2_527398-645501	99.94		True
+CONTIG	ref4_2_527398-645501	155055	misassembled
+21167	1076554	1054937	1	NC_001147.6_Saccharomyces_cerevisiae_S288c_chromosome_XV__complete_sequence	ref15_1_1076554-5	99.9		True
+indel: indel (> 5bp)
+5	21178	1076081	1054938	NC_001147.6_Saccharomyces_cerevisiae_S288c_chromosome_XV__complete_sequence	ref15_1_1076554-5	99.85		True
+CONTIG	ref15_1_1076554-5	1076233	correct
+823393	1090940	267720	268	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref7_2_1090940-823393	99.82		True
+relocation, inconsistency = 287850
+535210	535542	268053	267721	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref7_2_1090940-823393	99.4		True
+relocation, inconsistency = -276304
+736324	811446	343305	268121	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref7_2_1090940-823393	99.61		True
+translocation
+871752	877822	343413	349454	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref7_2_1090940-823393	98.14		True
+CONTIG	ref7_2_1090940-823393	349454	misassembled
+8096	190083	2721	184587	NC_001145.3_Saccharomyces_cerevisiae_S288c_chromosome_XIII__complete_sequence	ref13_1_5541-190080	99.79		True
+relocation, inconsistency = -5587
+184497	188969	184588	189032	NC_001145.3_Saccharomyces_cerevisiae_S288c_chromosome_XIII__complete_sequence	ref13_1_5541-190080	99.35		True
+CONTIG	ref13_1_5541-190080	189032	misassembled
+578482	666752	88184	2	NC_001143.9_Saccharomyces_cerevisiae_S288c_chromosome_XI__complete_sequence	ref11_1_379670-202911	99.57		True
+translocation
+561843	567760	94102	88185	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref11_1_379670-202911	99.16		True
+translocation
+517793	578486	154727	94103	NC_001143.9_Saccharomyces_cerevisiae_S288c_chromosome_XI__complete_sequence	ref11_1_379670-202911	99.35		True
+local misassembly
+379666	517455	292407	154728	NC_001143.9_Saccharomyces_cerevisiae_S288c_chromosome_XI__complete_sequence	ref11_1_379670-202911	99.56		True
+local misassembly
+202911	379670	469437	292749	NC_001143.9_Saccharomyces_cerevisiae_S288c_chromosome_XI__complete_sequence	ref11_1_379670-202911	99.91		True
+translocation
+443397	449320	475359	469438	NC_001137.3_Saccharomyces_cerevisiae_S288c_chromosome_V__complete_sequence	ref11_1_379670-202911	98.7		True
+translocation
+1	202915	678309	475360	NC_001143.9_Saccharomyces_cerevisiae_S288c_chromosome_XI__complete_sequence	ref11_1_379670-202911	99.64		True
+CONTIG	ref11_1_379670-202911	678403	misassembled
+472808	715319	1	242385	NC_001142.9_Saccharomyces_cerevisiae_S288c_chromosome_X__complete_sequence	ref10_2_472808-745744	99.89		True
+indel: indel (> 5bp)
+715266	745751	242386	272808	NC_001142.9_Saccharomyces_cerevisiae_S288c_chromosome_X__complete_sequence	ref10_2_472808-745744	99.42		True
+CONTIG	ref10_2_472808-745744	272818	correct
+549644	562643	12867	19	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref1_2_229750-208451	96.2		True
+relocation, inconsistency = 6033
+529056	543610	27354	12868	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref1_2_229750-208451	96.46		True
+CONTIG	ref1_2_229750-208451	27354	misassembled
+3992	25513	1	21512	NC_001141.2_Saccharomyces_cerevisiae_S288c_chromosome_IX__complete_sequence	ref9_1_25275-320800	99.72		True
+local misassembly
+25352	320800	21513	316835	NC_001141.2_Saccharomyces_cerevisiae_S288c_chromosome_IX__complete_sequence	ref9_1_25275-320800	99.91		True
+translocation
+735981	736308	318333	318005	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref9_1_25275-320800	98.79		True
+translocation
+325732	409843	318334	402393	NC_001141.2_Saccharomyces_cerevisiae_S288c_chromosome_IX__complete_sequence	ref9_1_25275-320800	99.89		True
+local misassembly
+410562	439887	403335	432648	NC_001141.2_Saccharomyces_cerevisiae_S288c_chromosome_IX__complete_sequence	ref9_1_25275-320800	99.96		True
+CONTIG	ref9_1_25275-320800	432839	misassembled
+2	12838	210	13042	NC_001133.9_Saccharomyces_cerevisiae_S288c_chromosome_I__complete_sequence	ref1_1_12466-198673	99.9		True
+local misassembly
+12469	198670	13057	199134	NC_001133.9_Saccharomyces_cerevisiae_S288c_chromosome_I__complete_sequence	ref1_1_12466-198673	99.7		True
+CONTIG	ref1_1_12466-198673	213306	correct
+7841	9833	876	2872	NC_001141.2_Saccharomyces_cerevisiae_S288c_chromosome_IX__complete_sequence	ref7_1_8778-530136	95.35		True
+translocation
+8781	530056	4177	525214	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref7_1_8778-530136	99.86		True
+local misassembly
+529967	682356	525215	677515	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref7_1_8778-530136	99.85		True
+translocation
+477105	477671	679050	678484	NC_001134.8_Saccharomyces_cerevisiae_S288c_chromosome_II__complete_sequence	ref7_1_8778-530136	100.0		True
+translocation
+682357	701186	680295	699117	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref7_1_8778-530136	99.73		True
+translocation
+1095767	1101672	699118	705022	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref7_1_8778-530136	99.63		True
+translocation
+701181	707189	705042	711049	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref7_1_8778-530136	99.62		True
+relocation, inconsistency = 5356
+712546	730994	711050	729475	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref7_1_8778-530136	99.03		True
+relocation, inconsistency = 91980
+822975	823306	729476	729807	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref7_1_8778-530136	100.0		True
+relocation, inconsistency = 87273
+730993	735627	734538	729882	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref7_1_8778-530136	98.31		True
+relocation, inconsistency = -92317
+817643	823309	740198	734539	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref7_1_8778-530136	99.17		True
+CONTIG	ref7_1_8778-530136	740198	misassembled
+CONTIG	unKnown_1	18754	unaligned
+1	420746	376	420881	NC_001137.3_Saccharomyces_cerevisiae_S288c_chromosome_V__complete_sequence	ref5_1_1-449320	99.88		True
+indel: indel (> 5bp)
+420789	449320	420882	449390	NC_001137.3_Saccharomyces_cerevisiae_S288c_chromosome_V__complete_sequence	ref5_1_1-449320	99.85		True
+translocation
+143159	143539	449773	449391	NC_001138.5_Saccharomyces_cerevisiae_S288c_chromosome_VI__complete_sequence	ref5_1_1-449320	95.68		True
+CONTIG	ref5_1_1-449320	449773	misassembled
+805391	810562	1	5165	NC_001148.4_Saccharomyces_cerevisiae_S288c_chromosome_XVI__complete_sequence	ref4_3_681540-1095479	99.3		True
+translocation
+668292	680705	5166	17571	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_3_681540-1095479	99.91		True
+local misassembly
+681540	1095479	19189	432893	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_3_681540-1095479	99.92		True
+translocation
+205220	210646	438320	432894	NC_001141.2_Saccharomyces_cerevisiae_S288c_chromosome_IX__complete_sequence	ref4_3_681540-1095479	99.78		True
+translocation
+1095474	1206704	438321	549518	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_3_681540-1095479	99.96		True
+relocation, inconsistency = 5923
+1212628	1307622	549519	644462	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_3_681540-1095479	99.93		True
+local misassembly
+1307789	1525466	644463	862033	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_3_681540-1095479	99.92		True
+local misassembly
+1525372	1531933	862139	868705	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_3_681540-1095479	99.79		True
+translocation
+26	6931	876212	869307	NC_001142.9_Saccharomyces_cerevisiae_S288c_chromosome_X__complete_sequence	ref4_3_681540-1095479	99.16		True
+CONTIG	ref4_3_681540-1095479	876212	misassembled
+1	1947	91	2043	NC_001141.2_Saccharomyces_cerevisiae_S288c_chromosome_IX__complete_sequence	ref14_1_765398-102559	97.49		True
+local misassembly
+2308	6948	2044	6659	NC_001141.2_Saccharomyces_cerevisiae_S288c_chromosome_IX__complete_sequence	ref14_1_765398-102559	98.88		True
+translocation
+102559	765398	674253	11789	NC_001146.8_Saccharomyces_cerevisiae_S288c_chromosome_XIV__complete_sequence	ref14_1_765398-102559	99.81		True
+translocation
+871821	877778	680205	674254	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref14_1_765398-102559	99.4		True
+translocation
+24457	96609	752443	680308	NC_001146.8_Saccharomyces_cerevisiae_S288c_chromosome_XIV__complete_sequence	ref14_1_765398-102559	99.75		True
+local misassembly
+6619	24457	770478	752624	NC_001146.8_Saccharomyces_cerevisiae_S288c_chromosome_XIV__complete_sequence	ref14_1_765398-102559	98.71		True
+local misassembly
+1	6689	777288	770606	NC_001146.8_Saccharomyces_cerevisiae_S288c_chromosome_XIV__complete_sequence	ref14_1_765398-102559	99.84		True
+CONTIG	ref14_1_765398-102559	777498	misassembled
+21	150541	1	150455	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_2_168673-454130	99.79		True
+local misassembly
+150541	168681	150687	168824	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_2_168673-454130	99.67		True
+translocation
+568742	574697	168825	174774	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref12_2_168673-454130	99.35		True
+translocation
+168673	454130	174775	460110	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_2_168673-454130	99.8		True
+CONTIG	ref12_2_168673-454130	460110	misassembled
+1	270158	979	271008	NC_001138.5_Saccharomyces_cerevisiae_S288c_chromosome_VI__complete_sequence	ref6_1_1-270158	99.86		True
+CONTIG	ref6_1_1-270158	271150	correct
+54950	85097	29837	1	NC_001224.1_Saccharomyces_cerevisiae_S288c_mitochondrion__complete_genome	ref17_2_85097-60571	98.12		True
+CONTIG	ref17_2_85097-60571	29837	correct
+730993	731556	563	1	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref8_4_548720-527907	98.77		True
+translocation
+548835	549640	1367	564	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_4_548720-527907	99.46		True
+local misassembly
+527907	548720	22041	1368	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_4_548720-527907	98.53		True
+CONTIG	ref8_4_548720-527907	22041	misassembled
+212266	214215	1949	1	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_2_216251-212266	99.95		True
+relocation, inconsistency = -3996
+212266	216251	5945	1960	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_2_216251-212266	100.0		True
+relocation, inconsistency = -3995
+212266	216251	9939	5955	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_2_216251-212266	99.97		True
+relocation, inconsistency = -3994
+212266	216251	13932	9948	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_2_216251-212266	99.97		True
+relocation, inconsistency = -3995
+212296	216251	17896	13942	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_2_216251-212266	99.72		True
+CONTIG	ref8_2_216251-212266	17896	misassembled
+1083107	1090937	8145	287	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref13_2_748223-202186	95.39		True
+translocation
+908132	917160	17266	8232	NC_001145.3_Saccharomyces_cerevisiae_S288c_chromosome_XIII__complete_sequence	ref13_2_748223-202186	98.78		True
+relocation, inconsistency = -1152
+748219	908724	178213	17826	NC_001145.3_Saccharomyces_cerevisiae_S288c_chromosome_XIII__complete_sequence	ref13_2_748223-202186	99.81		True
+translocation
+443397	449320	184137	178214	NC_001137.3_Saccharomyces_cerevisiae_S288c_chromosome_V__complete_sequence	ref13_2_748223-202186	99.73		True
+translocation
+202186	748223	729924	184138	NC_001145.3_Saccharomyces_cerevisiae_S288c_chromosome_XIII__complete_sequence	ref13_2_748223-202186	99.84		True
+local misassembly
+184170	202221	748068	730038	NC_001145.3_Saccharomyces_cerevisiae_S288c_chromosome_XIII__complete_sequence	ref13_2_748223-202186	99.82		True
+relocation, inconsistency = -5587
+185780	189756	752033	748069	NC_001145.3_Saccharomyces_cerevisiae_S288c_chromosome_XIII__complete_sequence	ref13_2_748223-202186	99.61		True
+CONTIG	ref13_2_748223-202186	752033	misassembled
+473797	483952	1	10122	NC_001142.9_Saccharomyces_cerevisiae_S288c_chromosome_X__complete_sequence	ref3_2_151670-168934	98.86		True
+translocation
+151670	168934	10142	27396	NC_001135.5_Saccharomyces_cerevisiae_S288c_chromosome_III__complete_sequence	ref3_2_151670-168934	99.87		True
+translocation
+650824	656408	32967	27397	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref3_2_151670-168934	99.54		True
+CONTIG	ref3_2_151670-168934	33100	misassembled
+1	258789	361	258968	NC_001134.8_Saccharomyces_cerevisiae_S288c_chromosome_II__complete_sequence	ref2_1_266173-643273	99.81		True
+relocation, inconsistency = 7255
+266173	643273	259097	636079	NC_001134.8_Saccharomyces_cerevisiae_S288c_chromosome_II__complete_sequence	ref2_1_266173-643273	99.89		True
+translocation
+443397	449320	636080	642003	NC_001137.3_Saccharomyces_cerevisiae_S288c_chromosome_V__complete_sequence	ref2_1_266173-643273	99.53		True
+translocation
+643269	643481	642004	642217	NC_001134.8_Saccharomyces_cerevisiae_S288c_chromosome_II__complete_sequence	ref2_1_266173-643273	99.1		True
+local misassembly
+643858	813184	642218	811447	NC_001134.8_Saccharomyces_cerevisiae_S288c_chromosome_II__complete_sequence	ref2_1_266173-643273	99.66		True
+translocation
+1084620	1091291	811486	818122	NC_001147.6_Saccharomyces_cerevisiae_S288c_chromosome_XV__complete_sequence	ref2_1_266173-643273	99.45		True
+CONTIG	ref2_1_266173-643273	818267	misassembled
+30305	50594	20109	1	NC_001224.1_Saccharomyces_cerevisiae_S288c_mitochondrion__complete_genome	ref17_1_29295-6264	98.14		True
+relocation, inconsistency = -1797
+18841	29295	33355	22916	NC_001224.1_Saccharomyces_cerevisiae_S288c_mitochondrion__complete_genome	ref17_1_29295-6264	99.49		True
+indel: indel (> 5bp)
+6264	18843	45951	33388	NC_001224.1_Saccharomyces_cerevisiae_S288c_mitochondrion__complete_genome	ref17_1_29295-6264	99.16		True
+CONTIG	ref17_1_29295-6264	45951	misassembled
+86	83036	1	82899	NC_001135.5_Saccharomyces_cerevisiae_S288c_chromosome_III__complete_sequence	ref3_1_86-83036	99.9		True
+translocation
+196669	201918	82900	88147	NC_001145.3_Saccharomyces_cerevisiae_S288c_chromosome_XIII__complete_sequence	ref3_1_86-83036	99.73		True
+translocation
+82700	147024	88148	152443	NC_001135.5_Saccharomyces_cerevisiae_S288c_chromosome_III__complete_sequence	ref3_1_86-83036	99.9		True
+CONTIG	ref3_1_86-83036	152443	misassembled
+449530	519069	69508	1	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_1_383530-27957	99.95		True
+translocation
+477105	477671	71030	70464	NC_001134.8_Saccharomyces_cerevisiae_S288c_chromosome_II__complete_sequence	ref4_1_383530-27957	100.0		True
+translocation
+437525	449529	84512	72514	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_1_383530-27957	99.95		True
+local misassembly
+385103	437149	136516	84513	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_1_383530-27957	99.45		True
+local misassembly
+382489	383496	138272	137265	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_1_383530-27957	98.62		True
+indel: indel (> 5bp)
+27957	382524	492663	138273	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref4_1_383530-27957	99.84		True
+CONTIG	ref4_1_383530-27957	492663	misassembled
+5665	11192	105	5643	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref3_3_295266-200851	99.41		True
+translocation
+295227	316594	26990	5644	NC_001135.5_Saccharomyces_cerevisiae_S288c_chromosome_III__complete_sequence	ref3_3_295266-200851	99.13		True
+local misassembly
+200851	295266	121739	27392	NC_001135.5_Saccharomyces_cerevisiae_S288c_chromosome_III__complete_sequence	ref3_3_295266-200851	99.81		True
+local misassembly
+169207	200103	153275	122381	NC_001135.5_Saccharomyces_cerevisiae_S288c_chromosome_III__complete_sequence	ref3_3_295266-200851	99.98		True
+translocation
+1096005	1101354	158612	153276	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref3_3_295266-200851	99.33		True
+CONTIG	ref3_3_295266-200851	158612	misassembled
+212266	539842	327313	1	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_3_539842-212266	99.9		True
+relocation, inconsistency = -3996
+212266	216251	331305	327324	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_3_539842-212266	99.9		True
+relocation, inconsistency = -3996
+213663	216251	333901	331316	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_3_539842-212266	99.88		True
+CONTIG	ref8_3_539842-212266	333901	misassembled
+133119	207160	74042	1	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_1_85391-1650	99.65		True
+local misassembly
+94968	133122	112515	74383	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_1_85391-1650	99.72		True
+relocation, inconsistency = 6341
+1662	85388	199381	115754	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_1_85391-1650	99.63		True
+local misassembly
+2	1841	201221	199382	NC_001140.6_Saccharomyces_cerevisiae_S288c_chromosome_VIII__complete_sequence	ref8_1_85391-1650	99.63		True
+CONTIG	ref8_1_85391-1650	201335	misassembled
+167893	168616	1	721	NC_001135.5_Saccharomyces_cerevisiae_S288c_chromosome_III__complete_sequence	ref12_5_656746-650824	98.0		True
+translocation
+650824	656723	6608	722	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_5_656746-650824	98.9		True
+translocation
+668292	671887	6609	10198	NC_001136.10_Saccharomyces_cerevisiae_S288c_chromosome_IV__complete_sequence	ref12_5_656746-650824	99.78		True
+CONTIG	ref12_5_656746-650824	10198	misassembled
+367042	483614	116490	1	NC_001142.9_Saccharomyces_cerevisiae_S288c_chromosome_X__complete_sequence	ref10_1_354657-1	99.88		True
+local misassembly
+355216	366756	128021	116491	NC_001142.9_Saccharomyces_cerevisiae_S288c_chromosome_X__complete_sequence	ref10_1_354657-1	99.57		True
+translocation
+817402	823306	133917	128022	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref10_1_354657-1	98.78		True
+local misassembly
+817075	817392	134488	134171	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref10_1_354657-1	99.06		True
+translocation
+1	354657	488965	134489	NC_001142.9_Saccharomyces_cerevisiae_S288c_chromosome_X__complete_sequence	ref10_1_354657-1	99.93		True
+CONTIG	ref10_1_354657-1	489098	misassembled
+463971	475973	1	11972	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_6_657018-1071654	99.66		True
+relocation, inconsistency = 5929
+481903	485551	11973	15618	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_6_657018-1071654	99.93		True
+relocation, inconsistency = -3654
+481898	593144	15619	126824	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_6_657018-1071654	99.88		True
+relocation, inconsistency = 5923
+599068	650823	126825	178604	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_6_657018-1071654	99.33		True
+translocation
+707204	712545	178887	184228	NC_001139.9_Saccharomyces_cerevisiae_S288c_chromosome_VII__complete_sequence	ref12_6_657018-1071654	98.65		True
+translocation
+657018	1071651	184229	598606	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_6_657018-1071654	99.86		True
+local misassembly
+1071652	1077450	598743	604530	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_6_657018-1071654	99.69		True
+CONTIG	ref12_6_657018-1071654	604531	misassembled
+3	5724	35	5715	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_1_1-11846	97.6		True
+relocation, inconsistency = -5768
+9	5722	5768	11456	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_1_1-11846	98.29		True
+relocation, inconsistency = -5773
+1	11846	11508	23316	NC_001144.5_Saccharomyces_cerevisiae_S288c_chromosome_XII__complete_sequence	ref12_1_1-11846	99.38		True
+CONTIG	ref12_1_1-11846	23316	misassembled

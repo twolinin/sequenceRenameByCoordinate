@@ -1,0 +1,137 @@
+/usr/lib/python2.7/site-packages/quast-4.5-py2.7.egg/EGG-INFO/scripts/quast.py -R ../../../Pacbio_Long_Read_Scaffold/Scerevisiae/ref/GCF_000146045.2_R64_genomic.fna reNameResult.fasta
+
+Version: 4.5
+
+System information:
+  OS: Linux-3.10.0-514.26.2.el7.x86_64-x86_64-with-centos-7.3.1611-Core (linux_64)
+  Python version: 2.7.5
+  CPUs number: 48
+
+Started: 2017-10-30 12:59:18
+
+Logging to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/quast.log
+NOTICE: Maximum number of threads is set to 12 (use --threads option to set it manually)
+
+CWD: /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae
+Main parameters: 
+  Threads: 12, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  ../../../Pacbio_Long_Read_Scaffold/Scerevisiae/ref/GCF_000146045.2_R64_genomic.fna ==> GCF_000146045.2_R64_genomic
+
+Contigs:
+  Pre-processing...
+  reNameResult.fasta ==> reNameResult
+
+2017-10-30 12:59:21
+Running Basic statistics processor...
+  Reference genome:
+    GCF_000146045.2_R64_genomic.fna, length = 12157105, num fragments = 17, GC % = 38.15
+  Contig files: 
+    reNameResult
+  Calculating N50 and L50...
+    reNameResult, N50 = 678403, L50 = 8, Total length = 12325448, GC % = 38.22, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/basic_stats/GC_content_plot.pdf
+  Drawing reNameResult GC content plot...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/basic_stats/reNameResult_GC_content_plot.pdf
+Done.
+
+2017-10-30 12:59:26
+Running Contig analyzer...
+  reNameResult
+  Logging to files /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/contigs_reports/contigs_report_reNameResult.stdout and contigs_report_reNameResult.stderr...
+  Aligning contigs to the reference
+  /usr/lib/python2.7/site-packages/quast-4.5-py2.7.egg/quast_libs/MUMmer/nucmer -c \
+  65 -l 65 --maxmatch -p quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult \
+  --emem -t 12 quast_results/results_2017_10_30_12_59_18/quast_corrected_input/GCF_000146045.2_R64_genomic.fna \
+  quast_results/results_2017_10_30_12_59_18/quast_corrected_input/reNameResult.fasta \
+  >> quast_results/results_2017_10_30_12_59_18/contigs_reports/contigs_report_reNameResult.stdout \
+  2>> quast_results/results_2017_10_30_12_59_18/contigs_reports/contigs_report_reNameResult.stderr
+  /usr/lib/python2.7/site-packages/quast-4.5-py2.7.egg/quast_libs/MUMmer/delta-filter \
+  -i 95.0 -l 0 quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult.delta \
+  > quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult.fdelta \
+  2> quast_results/results_2017_10_30_12_59_18/contigs_reports/contigs_report_reNameResult.stderr
+  /usr/lib/python2.7/site-packages/quast-4.5-py2.7.egg/quast_libs/MUMmer/mummerplot \
+  --html --layout -p quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult \
+  quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult.delta \
+  > quast_results/results_2017_10_30_12_59_18/contigs_reports/contigs_report_reNameResult.stdout \
+  2> quast_results/results_2017_10_30_12_59_18/contigs_reports/contigs_report_reNameResult.stderr
+  /usr/lib/python2.7/site-packages/quast-4.5-py2.7.egg/quast_libs/gnuplot/src/gnuplot \
+  quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult.gp \
+  > /dev/null 2> quast_results/results_2017_10_30_12_59_18/contigs_reports/contigs_report_reNameResult.stderr
+  MUMmer plot saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/contigs_reports/reNameResult_mummerplot.html
+  /usr/lib/python2.7/site-packages/quast-4.5-py2.7.egg/quast_libs/MUMmer/show-coords \
+  quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult.delta \
+  > quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult.coords_tmp \
+  2> quast_results/results_2017_10_30_12_59_18/contigs_reports/contigs_report_reNameResult.stderr
+  /usr/lib/python2.7/site-packages/quast-4.5-py2.7.egg/quast_libs/MUMmer/show-snps \
+  -S -T -H quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult.delta \
+  < quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult.coords.headless \
+  > quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult.all_snps \
+  2> quast_results/results_2017_10_30_12_59_18/contigs_reports/contigs_report_reNameResult.stderr
+  Analysis is finished.
+
+  Gzipping /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult.all_snps to reduce disk space usage...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/contigs_reports/nucmer_output/reNameResult.all_snps.gz
+  Creating total report...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2017-10-30 13:02:31
+Running NA-NGA calculation...
+  reNameResult, Largest alignment = 1076081, NA50 = 374994, NGA50 = 374994, LA50 = 11, LGA50 = 11
+  Drawing cumulative plot...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/aligned_stats/NGAx_plot.pdf
+Done.
+
+2017-10-30 13:02:33
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  reNameResult
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2017-10-30 13:02:39
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2017-10-30 13:02:42
+RESULTS:
+  Text versions of total report are saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/report.html
+  PDF version (tables and plots) is saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/report.pdf
+  Icarus (contig browser) is saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/icarus.html
+  Log saved to /bip7_disk/jyunhong_104/sequenceRenameByCoordinate/test/scerevisiae/quast_results/results_2017_10_30_12_59_18/quast.log
+
+Finished: 2017-10-30 13:02:42
+Elapsed time: 0:03:24.248686
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

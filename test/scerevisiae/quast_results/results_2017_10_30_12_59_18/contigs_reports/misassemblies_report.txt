@@ -1,0 +1,16 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     reNameResult
+# misassemblies              79          
+    # relocations            33          
+    # translocations         46          
+    # inversions             0           
+# misassembled contigs       30          
+Misassembled contigs length  10380502    
+# local misassemblies        25          
+# unaligned mis. contigs     0           
+# mismatches                 9633        
+# indels                     7119        
+    # indels (<= 5 bp)       6969        
+    # indels (> 5 bp)        150         
+Indels length                10252       
